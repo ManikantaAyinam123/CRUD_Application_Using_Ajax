@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "Name": "praveen",
+      "Email": "manikanta995975@gmail.com",
+      "Designation": "nknkn",
+      "id": 1
+    },
+    {
+      "Name": "manikana",
+      "Email": "manikanta995975@gmail.com",
+      "Designation": "mnm",
+      "id": 2
+    },
+    {
+      "Name": "njdn",
+      "Email": "nmn",
+      "Designation": "dnmnd",
+      "id": 3
+    },
+    {
+      "Name": "Manikanta",
+      "Email": "Manikanta995975@gmail.com",
+      "Designation": "ngn",
+      "id": 4
+    }
+  ]
+}
